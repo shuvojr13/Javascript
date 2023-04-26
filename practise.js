@@ -20,3 +20,5 @@ for(var i = 0; i < 100 ; i++)
 }
 if(!ok) console.log("Click");
 console.log(arr);
+let name = "Ahad Hossain";
+console.log(name);
