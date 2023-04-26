@@ -1,4 +1,4 @@
-var arr = [2, 3, 45, 5, 6, 9];
+var arr = [2, 3, 45, 5, 6, 9,10];
         arr.sort(function(a, b) {
             if (a > b) return 1;
             else if (a < b) return -1;
