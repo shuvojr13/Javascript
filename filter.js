@@ -1,4 +1,4 @@
-// Filter - Array
+// Filter - Array // Just for learn
     var arr = [2, 3, 4, 5, 6];
     var fArr = arr.filter(function(value) {
             return value % 2 == 0; //return true or false
