@@ -2,7 +2,7 @@ function Dog()
 {
    this.eat = () =>
    {
-    console.log("Dog is eaten....");
+    console.log("Dog is eaten....\n");
    }
    this.weight = () =>
    {
