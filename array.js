@@ -86,5 +86,22 @@ console.log(a[0]);
 
 //   console.log(a.join(' , '));
 //   a.sort();
+/**
+Some of the most common JavaScript Array methods include:
+
+Array.push(): Adds one or more elements to the end of an array.
+Array.pop(): Removes the last element from an array and returns it.
+Array.shift(): Removes the first element from an array and returns it.
+Array.unshift(): Adds one or more elements to the beginning of an array.
+Array.sort(): Sorts the elements of an array in ascending or descending order.
+Array.reverse(): Reverses the order of the elements in an array.
+Array.indexOf(): Returns the index of the first element in an array that matches a given value, or -1 if no such element is found.
+Array.lastIndexOf(): Returns the index of the last element in an array that matches a given value, or -1 if no such element is found.
+Array.includes(): Returns true if an array contains a given value, false otherwise.
+Array.filter(): Creates a new array containing all of the elements of the original array that pass a test implemented by the provided function.
+Array.map(): Creates a new array containing the results of applying the provided function to each element of the original array.
+Array.reduce(): Reduces the elements of an array to a single value by applying the provided function to each element in the array and the current value of the accumulator.
+
+**/
 
 
